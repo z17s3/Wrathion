@@ -1,1 +1,1 @@
-return warn("Error")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/APIApple/Other/refs/heads/main/DBULoad")()
