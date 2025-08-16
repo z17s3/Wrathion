@@ -1,1 +1,12 @@
+local Config = {
+    AutoFarm = true,
+    AutoBlock = true,
+    Movespam = true,
+    AutoTransform = true,
+    AutoCharge = true,
+    AutoRebirth = true,
+    StaffDetection = true,
+    Abbreviate = true,
+}
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/APIApple/Other/refs/heads/main/DBULoad"))()
